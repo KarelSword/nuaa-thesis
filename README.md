@@ -1,12 +1,18 @@
 # nuaa-thesis
-南京航空航天大学学位论文LaTeX模板
 
 nuaa-thesis is a LaTeX style package providing nuaa thesis format for undergraduate, postgraduate and Phd.
 This repository is forked from the undergradute LaTeX thesis project [nuaathesis](https://github.com/JackWzh/nuaathesis) developed by [Jack](https://github.com/JackWzh) and HuangDaning, DengXinke, XuTianhao, ShiKun.
 
+nuaa-thesis是一个LaTeX样式包，提供了南京航空航天大学本科、硕士和博士学位论文的样式模板。
+该代码库从南航本科LaTeX学位论文模板项目[nuaathesis](https://github.com/JackWzh/nuaathesis)fork而来，nuaathesis由[Jack](https://github.com/JackWzh)和黄大宁、邓欣珂、徐添豪、石坤开发。
+
 The project has just been started and not finished yet.
 
-# TODO
+# Agenda
+1. 确认并修改README中关于前人项目作者的描述
+2. 完成硕士学位论文模板
+3. 完成博士学位论文模板
+   3.1 创建
 
 # Contributors
 - [Ding Fei](https://github.com/uraplutonium)
