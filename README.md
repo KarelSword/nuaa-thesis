@@ -8,19 +8,19 @@ nuaa-thesis是一个LaTeX样式包，提供了南京航空航天大学本科、�
 
 The project has just been started and not finished yet.
 
-# Agenda
+## Agenda
 1. 确认并修改README中关于前人项目作者的描述
 2. 完成硕士学位论文模板
 3. 完成博士学位论文模板
    3.1 创建
 
-# Contributors
+## Contributors
 - [Ding Fei](https://github.com/uraplutonium)
 - [Wang Jun](https://github.com/traceflight)
 - [Hou Guomin](https://github.com/ChenDianGuDeng)
 - [Zhong Wei](https://github.com/Veviz)
 
-The following are contents from the README.md in previous nuaathesis project.
+# The following are contents from the README.md in previous nuaathesis project.
 
 [示例文件](https://github.com/jackwzh/nuaathesis/raw/master/sample.pdf)
 
