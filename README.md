@@ -1,4 +1,22 @@
-# nuaathesis
+# nuaa-thesis
+南京航空航天大学学位论文$\LaTeX$模板
+
+nuaa-thesis is a LaTeX style package providing nuaa thesis format, particularly for postgraduate and doctoral dissertations. (in progress) http://nuaa803.github.io/nuaa-thesis
+This repository is forked from the undergradute thesis LaTeX template https://github.com/JackWzh/nuaathesis.
+ 
+ # nuaa-thesis
+　　nuaa-thesis is a LaTeX style package providing nuaa thesis format.  
+
+# contributors
+- [Teacher Ding](https://github.com/uraplutonium)
+- [Teacher Wang](https://github.com/traceflight)
+- [Teacher Hou](https://github.com/ChenDianGuDeng)
+- [Student Zhong](https://github.com/Veviz)
+
+　　If you have any questions, please contact us. Maybe we will response to you, but who knows...
+
+# Future
+
 南京航空航天大学(非官方)本科生学位LaTeX模板
 
 [示例文件](https://github.com/jackwzh/nuaathesis/raw/master/sample.pdf)
